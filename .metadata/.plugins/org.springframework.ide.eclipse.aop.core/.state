@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="23-spring-datajpa-cruddemo"/>
+<aop-project name="34-thymeleafdemo-list-employees-db"/>
+<aop-project name="24-spring-datarest-cruddemo"/>
+<aop-project name="30-thymeleafdemo-helloworld"/>
+<aop-project name="33-thymeleafdemo-list-employees-css"/>
+<aop-project name="32-thymeleafdemo-list-employees"/>
+<aop-project name="31-thymeleafdemo-helloworld-css"/>
+<aop-project name="22-jpademo"/>
+</aop-reference-model>
